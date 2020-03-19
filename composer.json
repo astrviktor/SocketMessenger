@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Astrviktor\\Training\\SockMessenger\\": "src/"
+      "Astrviktor\\Training\\SocketMessenger\\": "src/"
     }
   },
   "minimum-stability": "stable"
