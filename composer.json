@@ -1,0 +1,23 @@
+{
+  "name": "astrviktor/socketmessenger",
+  "description": "Training Socket Messenger",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Viktor Astrakhantsev",
+      "email": "astrviktor@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+   },
+  "require-dev": {
+    "phpunit/phpunit": ">=4.8.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Astrviktor\\Training\\SockMessenger\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
